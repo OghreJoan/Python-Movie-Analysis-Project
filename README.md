@@ -1,7 +1,6 @@
 # Python-Movie-Analysis-Project
 This project is a valuable addition to my Data Analytics Portfolio, showcasing skills in data cleaning, visualization, and insight generation using Python.
 
-**Python Movie Analysis Project**
 
 **Business Problem Statement**
 The film industry is a multi-billion-dollar business, yet many studios struggle to predict which movies will succeed or fail. Factors such as genre, budget, runtime, and audience reception play a crucial role in a movie’s financial success.
